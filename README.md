@@ -38,8 +38,8 @@ c. Refunds:
 This simple use case highlights how ERC-20 tokens can be used for easy payments and rewards in a ticket booking system.
 
 
-## Contract Address ##
-contract address of this token generation:  0xe66a50641555415EC8e5fd857878D8B24B003c50
+## Address of Verfied Contract  ##
+contract address of this token generation:  0xC81DDCFA9194bd530B389F0Fc898781d17768946
 
 ## Prerequisites ##
 To interact with the contract, you’ll need:
